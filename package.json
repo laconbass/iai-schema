@@ -4,7 +4,7 @@
   "description": "helps defining data structures and asynchronously validates any input data against them",
   "main": "lib/Schema.js",
   "scripts": {
-    "test": "make test"
+    "test": "./bin/test"
   },
   "dependencies": {
     "iai-oop": "2.x"
